@@ -1,0 +1,24 @@
+[submodule "Project-Knowledge-Repository"]
+	path = Project-Knowledge-Repository
+	url = https://github.com/Eternal-Foundation/Project-Knowledge-Repository
+[submodule "Project-University"]
+	path = Project-University
+	url = https://github.com/Eternal-Foundation/Project-University
+[submodule "Project-The-Alliance"]
+	path = Project-The-Alliance
+	url = https://github.com/Eternal-Foundation/Project-The-Alliance
+[submodule "Project-ORG"]
+	path = Project-ORG
+	url = https://github.com/Eternal-Foundation/Project-ORG
+[submodule "Project-Coin"]
+	path = Project-Coin
+	url = https://github.com/Eternal-Foundation/Project-Coin
+[submodule "Project-WORLD"]
+	path = Project-WORLD
+	url = https://github.com/Eternal-Foundation/Project-WORLD
+[submodule "Project-The-Lang"]
+	path = Project-The-Lang
+	url = https://github.com/Eternal-Foundation/Project-The-Lang
+[submodule "Project-Open-Ecosystem"]
+	path = Project-Open-Ecosystem
+	url = https://github.com/Eternal-Foundation/Project-Open-Ecosystem
