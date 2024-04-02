@@ -18,42 +18,42 @@ Our goals include promoting interdisciplinary collaboration, democratizing acces
 
 ### Existing Projects
 ---
-#### [Project-University]:
+#### [Project-University](https://github.com/Eternal-Foundation/Project-University/) :
 Dive into Project-University, our educational hub where learning knows no bounds! 
 Project-University serves as the educational & Knowledge hub within the ecosystem,
 Where We're empowering learners to explore new horizons and develop the skills they need to succeed, fostering the development of skills and knowledge necessary for participation in other projects.
 
-#### [Project-The-Alliance]:
+#### [Project-The-Alliance](https://github.com/Eternal-Foundation/Project-The-Alliance) :
 Join forces with Project-The-Alliance and explore new frontiers of governance and community building. 
 Together, we're creating spaces where individuals can experiment with different models of organization and forge connections that transcend borders.
 The Alliance contributes governance models and methodologies that promote transparency, resilience and participatory Decision making across all projects within the ecosystem.
 
-#### [Project-ORG]:
+#### [Project-ORG](https://github.com/Eternal-Foundation/Project-ORG/) :
 Be part of Project-ORG, where transparency and accountability reign supreme!
 Our decentralized governance systems ensure that decisions are made collaboratively, with everyone's voice heard and valued.
 Project-ORG establishes decentralized governance systems, ensuring that Decision making processes within the ecosystem are transparent, equitable, and Community driven.
 
-#### [Project-Open-Ecosystem]:
+#### [Project-Open-Ecosystem](https://github.com/Eternal-Foundation/Project-Open-Ecosystem/) :
 Discover Project-Open-Ecosystem, your Go-to source for opensource hardware and software solutions. 
 From DIY gadgets to sustainable tech, we're pioneering a new era of innovation that's accessible to all.
 Project-Open-Ecosystem provides opensource hardware and software solutions that enable innovation and sustainability across various projects within the ecosystem.
 
-#### [Project-The-Lang]:
+#### [Project-The-Lang](https://github.com/Eternal-Foundation/Project-The-Lang/) :
 Say Hello to Project-The-Lang, your passport to seamless communication and collaboration. 
 With our standardized language for conceptual representation, sharing ideas has never been easier!
 The Lang offers a standardized language(Communication System) for conceptual representation and communication, facilitating seamless interaction and collaboration between different projects.
 
-#### [Project-WORLD]:
+#### [Project-WORLD](https://github.com/Eternal-Foundation/Project-WORLD/) :
 Explore Project-World, where physical and digital realms merge to create endless possibilities.
 Whether you're building floating cities or virtual communities, we're providing the platform for your wildest dreams to take flight.
 Project-World provides both physical and digital spaces for experimentation and collaboration, serving as a platform for projects within the ecosystem to explore new ideas and methodologies.
 
-#### [Project-Coin]:
+#### [Project-Coin](https://github.com/Eternal-Foundation/Project-Coin) :
 Get ready to embrace Project-Coin, our digital currency system designed to fuel collaboration and reward participation.
 With Coin, you can support your favorite projects, earn rewards, and drive positive change in the ecosystem.
 Project-Coin introduces a digital currency system that can be used within the ecosystem for transactions, Incentivizing participation and fostering economic sustainability.
 
-#### [Project-Knowledge-Repository]:
+#### [Project-Knowledge-Repository](https://github.com/Eternal-Foundation/Project-Knowledge-Repository/) :
 Dive into Project-Knowledge Repository, your One-stop destination for all things Knowledge related.
 From encyclopedia entries to Peer reviewed research, we're building a treasure trove of information to empower learners and creators alike.
 Project-Knowledge Repository serves as a comprehensive resource for storing and sharing knowledge, providing valuable insights and information to support the endeavors of projects within the ecosystem.
